@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sensor Logger</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="sensor_selection_instruction">Select the sensor(s) to log:</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="sensor_selection_button">continue</string>
+    <string name="log_description">Ready to log</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="sampling_rate">Sampling rate (ms):</string>
+    <string name="sampling_rate_hint">1000</string>
+    <string name="logger_capability_name">sensor_logger_base</string>
+    <string name="accelerometer_path">/accel</string>
+    <string name="gyroscope_path">/gyro</string>
+    <string name="start_message_path">/start</string>
+    <string name="stop_message_path">/stop</string>
+    <string name="title_activity_logger">LoggerActivity</string>
+</resources>

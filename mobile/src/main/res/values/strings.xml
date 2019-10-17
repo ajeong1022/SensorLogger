@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sensor Logger</string>
+    <string name="mobile_instructions">Follow the instructions on your smartwatch and press start.</string>
+    <string name="message_receiving">Receiving...</string>
+    <string name="logger_capability_name">sensor_logger_node</string>
+    <string name="stop_message_path">/stop</string>
+</resources>
